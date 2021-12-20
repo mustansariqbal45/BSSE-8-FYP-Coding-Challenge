@@ -1,4 +1,4 @@
-# BSSE-8-FYP
+# Violation Detection While Driving
 Detecting Traffic Rules Implementation inside Car (Seat Belt, Mobile Phone)
 
 This is my project which i made for my final year in my univeristy this project is basically based on object detection, in which i am detecting the seatbelt and cellphone while driving, because both of these are the major issue which causes the casualities on road.
